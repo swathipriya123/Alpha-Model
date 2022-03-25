@@ -16,6 +16,7 @@ def check_for_success(command):
 
 
 def action(command):
+    x=2
     print('start ' + command, flush=True)
     #sys.stdout.flush()
     # Call function to check for its success
