@@ -48,4 +48,3 @@ action('HideDialog()')
 
 while(True):
     input()
-
