@@ -7,6 +7,9 @@ action('SetHairStyle(Peasant,Long)')
 action('SetSkinColor(Peasant,0)')
 action('SetEyeColor(Peasant,Red)')
 action('SetRight(Peasant)')
+action('CreatePlace(City)')
+
+
 
   
   
